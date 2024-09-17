@@ -1,6 +1,5 @@
 package no.hvl.dat100;
 import java.util.Scanner;
-import java.math.BigInteger;
 
 public class OppgaveO3 {
 	
